@@ -38,6 +38,7 @@ export default {
     return {
     id:'',
     name:'',
+    keywords:'',
     car:[
     {id:1,name:'奥迪',ctime:new Date()},
     {id:2,name:'宝马',ctime:new Date()}
